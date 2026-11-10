@@ -35,3 +35,4 @@ volumes:
   3xui_db:
   3xui_cert:
   3xui_acme:
+  3xui_pgdata:
